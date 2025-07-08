@@ -59,13 +59,6 @@ flutter run
 
 ---
 
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="assets/screenshots/dashboard.png" width="250">
-  <img src="assets/screenshots/food_search.png" width="250">
-  <img src="assets/screenshots/nutrient_chart.png" width="250">
-</p>
 
 ---
 
